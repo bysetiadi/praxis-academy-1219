@@ -1,8 +1,8 @@
 # RANGKUMAN
 
-1. Teknologi Informasi
+1. Teknologi Informasi,
    Bahwasanya teknologi informasi itu terkait dengan penggunaan hardware dan software yang digunakan untuk melakukan manipulasi data atau pertukaran informasi. Proses pertukaran data atau menterjemahan data tersebut melalui beberapa tahap, mulai dari pengambilan, pengolahan dan penyajian
-2. Perbedaan Computer Science and Informatics
+2. Perbedaan Computer Science and Informatics,
    Komputer sains melingkupi "darimana", komputer sains akan mencari dan mengembangkan beberapa metode baru, sedangkan informatika itu lebih ke implementasi dari komputer sains itu sendiri
 3. Software Development
    Pengembangan software, sesuai dengan namanya, yaitu mengembangkan, mulai dari konsep desain hingga hasil jadi. dalam pelaksanaanya, pengembangan software banyak menggunakan metode, bahasa pemrograman, model pengembangan.
