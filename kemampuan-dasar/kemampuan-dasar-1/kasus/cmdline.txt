@@ -5,69 +5,7 @@ C:\Users\Personal>dir
  Volume in drive C is Windows-10
  Volume Serial Number is 1021-68A4
 
- Directory of C:\Users\Personal
-
-11/29/2019  09:46 PM    <DIR>          .
-11/29/2019  09:46 PM    <DIR>          ..
-10/08/2019  08:36 AM    <DIR>          .anaconda
-10/23/2019  06:13 PM    <DIR>          .android
-04/03/2019  12:43 PM    <DIR>          .AndroidStudio3.3
-12/02/2019  09:32 AM    <DIR>          .atom
-10/23/2019  06:01 PM    <DIR>          .BigNox
-06/27/2019  11:57 PM    <DIR>          .cache
-10/14/2019  08:44 PM    <DIR>          .conda
-10/14/2019  02:34 PM                43 .condarc
-11/29/2019  09:46 PM                54 .gitconfig
-04/03/2019  05:49 PM    <DIR>          .gradle
-10/14/2019  02:35 PM    <DIR>          .ipynb_checkpoints
-10/08/2019  08:37 AM    <DIR>          .ipython
-10/08/2019  08:37 AM    <DIR>          .jupyter
-10/08/2019  10:50 AM    <DIR>          .matplotlib
-10/11/2019  08:54 AM    <DIR>          .PyCharmCE2019.2
-12/27/2018  02:04 PM    <DIR>          3D Objects
-10/01/2019  01:43 PM    <DIR>          Anaconda3
-04/03/2019  01:26 PM    <DIR>          AndroidStudioProjects
-07/09/2019  04:24 PM    <DIR>          byrahagita@gmail.com Creative Cloud Files
-12/27/2018  02:04 PM    <DIR>          Contacts
-11/29/2019  05:14 AM    <DIR>          Creative Cloud Files
-10/23/2019  06:25 PM               301 d4ac4633ebd6440fa397b84f1bc94a3c.7z
-11/19/2019  11:11 AM    <DIR>          Desktop
-11/27/2019  05:31 AM    <DIR>          Documents
-12/01/2019  06:24 AM    <DIR>          Downloads
-12/27/2018  02:04 PM    <DIR>          Favorites
-06/26/2019  11:12 PM           272,402 flowRoot1227.png
-07/20/2019  08:51 PM            76,464 flowRoot1890.png
-04/25/2019  09:44 PM           723,483 flowRoot2735.png
-06/18/2019  01:26 PM           303,667 flowRoot896.png
-11/09/2019  10:18 PM    <DIR>          github
-09/20/2019  02:11 PM               142 image63464.png
-10/23/2019  05:55 PM                66 inittk.ini
-10/23/2019  05:54 PM                41 inst.ini
-12/27/2018  04:08 PM    <DIR>          Intel
-10/10/2019  11:16 PM           419,688 Latihan 07_Setiadi.ipynb
-12/27/2018  02:04 PM    <DIR>          Links
-12/27/2018  02:04 PM    <DIR>          Music
-07/20/2019  04:48 PM            27,400 New document 1.2019_07_20_16_48_39.0.svg
-07/20/2019  04:56 PM             3,120 New document 1.2019_07_20_16_56_10.0.svg
-10/23/2019  05:54 PM    <DIR>          Nox_share
-10/23/2019  05:54 PM                45 nuuid.ini
-11/23/2019  08:35 PM    <DIR>          OneDrive
-06/17/2019  09:25 PM            78,462 path1483.png
-10/08/2019  09:10 AM               831 Pelajaran 6.ipynb
-07/09/2019  04:52 PM    <DIR>          Pictures
-10/20/2019  10:16 AM    <DIR>          PycharmProjects
-12/27/2018  02:04 PM    <DIR>          Saved Games
-12/27/2018  02:06 PM    <DIR>          Searches
-02/10/2019  06:54 PM            82,675 text1192.png
-10/08/2019  08:37 AM                72 Untitled.ipynb
-10/11/2019  08:48 AM               555 Untitled1.ipynb
-10/14/2019  02:37 PM             4,208 Untitled2.ipynb
-10/23/2019  05:54 PM                53 useruid.ini
-12/01/2019  09:32 PM    <DIR>          Videos
-10/23/2019  06:01 PM    <DIR>          vmlogs
-              21 File(s)      1,993,772 bytes
-              37 Dir(s)  130,127,507,456 bytes free
-
+ 
 C:\Users\Personal>cd Documents
 
 C:\Users\Personal\Documents>mkdir praxis-academy
