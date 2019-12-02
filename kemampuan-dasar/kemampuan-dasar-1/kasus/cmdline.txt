@@ -1,0 +1,273 @@
+Microsoft Windows [Version 10.0.17763.55]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\Personal>dir
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal
+
+11/29/2019  09:46 PM    <DIR>          .
+11/29/2019  09:46 PM    <DIR>          ..
+10/08/2019  08:36 AM    <DIR>          .anaconda
+10/23/2019  06:13 PM    <DIR>          .android
+04/03/2019  12:43 PM    <DIR>          .AndroidStudio3.3
+12/02/2019  09:32 AM    <DIR>          .atom
+10/23/2019  06:01 PM    <DIR>          .BigNox
+06/27/2019  11:57 PM    <DIR>          .cache
+10/14/2019  08:44 PM    <DIR>          .conda
+10/14/2019  02:34 PM                43 .condarc
+11/29/2019  09:46 PM                54 .gitconfig
+04/03/2019  05:49 PM    <DIR>          .gradle
+10/14/2019  02:35 PM    <DIR>          .ipynb_checkpoints
+10/08/2019  08:37 AM    <DIR>          .ipython
+10/08/2019  08:37 AM    <DIR>          .jupyter
+10/08/2019  10:50 AM    <DIR>          .matplotlib
+10/11/2019  08:54 AM    <DIR>          .PyCharmCE2019.2
+12/27/2018  02:04 PM    <DIR>          3D Objects
+10/01/2019  01:43 PM    <DIR>          Anaconda3
+04/03/2019  01:26 PM    <DIR>          AndroidStudioProjects
+07/09/2019  04:24 PM    <DIR>          byrahagita@gmail.com Creative Cloud Files
+12/27/2018  02:04 PM    <DIR>          Contacts
+11/29/2019  05:14 AM    <DIR>          Creative Cloud Files
+10/23/2019  06:25 PM               301 d4ac4633ebd6440fa397b84f1bc94a3c.7z
+11/19/2019  11:11 AM    <DIR>          Desktop
+11/27/2019  05:31 AM    <DIR>          Documents
+12/01/2019  06:24 AM    <DIR>          Downloads
+12/27/2018  02:04 PM    <DIR>          Favorites
+06/26/2019  11:12 PM           272,402 flowRoot1227.png
+07/20/2019  08:51 PM            76,464 flowRoot1890.png
+04/25/2019  09:44 PM           723,483 flowRoot2735.png
+06/18/2019  01:26 PM           303,667 flowRoot896.png
+11/09/2019  10:18 PM    <DIR>          github
+09/20/2019  02:11 PM               142 image63464.png
+10/23/2019  05:55 PM                66 inittk.ini
+10/23/2019  05:54 PM                41 inst.ini
+12/27/2018  04:08 PM    <DIR>          Intel
+10/10/2019  11:16 PM           419,688 Latihan 07_Setiadi.ipynb
+12/27/2018  02:04 PM    <DIR>          Links
+12/27/2018  02:04 PM    <DIR>          Music
+07/20/2019  04:48 PM            27,400 New document 1.2019_07_20_16_48_39.0.svg
+07/20/2019  04:56 PM             3,120 New document 1.2019_07_20_16_56_10.0.svg
+10/23/2019  05:54 PM    <DIR>          Nox_share
+10/23/2019  05:54 PM                45 nuuid.ini
+11/23/2019  08:35 PM    <DIR>          OneDrive
+06/17/2019  09:25 PM            78,462 path1483.png
+10/08/2019  09:10 AM               831 Pelajaran 6.ipynb
+07/09/2019  04:52 PM    <DIR>          Pictures
+10/20/2019  10:16 AM    <DIR>          PycharmProjects
+12/27/2018  02:04 PM    <DIR>          Saved Games
+12/27/2018  02:06 PM    <DIR>          Searches
+02/10/2019  06:54 PM            82,675 text1192.png
+10/08/2019  08:37 AM                72 Untitled.ipynb
+10/11/2019  08:48 AM               555 Untitled1.ipynb
+10/14/2019  02:37 PM             4,208 Untitled2.ipynb
+10/23/2019  05:54 PM                53 useruid.ini
+12/01/2019  09:32 PM    <DIR>          Videos
+10/23/2019  06:01 PM    <DIR>          vmlogs
+              21 File(s)      1,993,772 bytes
+              37 Dir(s)  130,127,507,456 bytes free
+
+C:\Users\Personal>cd Documents
+
+C:\Users\Personal\Documents>mkdir praxis-academy
+
+C:\Users\Personal\Documents>dir
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal\Documents
+
+12/02/2019  11:31 AM    <DIR>          .
+12/02/2019  11:31 AM    <DIR>          ..
+05/02/2019  11:13 PM         1,181,738 1.pdf
+10/30/2019  12:34 PM            16,501 11.png
+06/11/2019  03:32 PM           537,469 123.pdf
+08/26/2019  08:40 PM         2,582,274 20190826_203556.jpg
+11/13/2019  05:43 PM    <DIR>          Adobe
+01/24/2019  11:00 PM           559,599 angger.docx
+10/30/2019  03:22 PM         5,830,241 app.aab
+01/06/2019  04:13 AM         2,355,092 Backup_of_cakyur branding.cdr
+01/06/2019  09:46 PM         2,337,845 cakyur branding.cdr
+12/31/2018  10:42 PM    <DIR>          Corel
+12/28/2018  11:10 AM    <DIR>          Custom Office Templates
+04/17/2019  04:23 PM             9,380 f552bf266653ebe68a5a99113a8989bc.png
+08/16/2019  11:05 AM           156,398 flowRoot921.png
+06/17/2019  10:50 PM           329,301 fontaji.svg
+06/17/2019  11:02 PM    <DIR>          Fonts
+12/28/2018  10:58 AM         1,120,958 g1378.png
+12/28/2018  10:46 AM           982,847 g829.png
+12/28/2018  10:47 AM           561,661 g898.png
+01/24/2019  01:03 AM         4,953,446 image834.png
+12/28/2018  10:46 AM         1,027,128 image854.png
+04/17/2019  04:11 PM           475,962 istockphoto-1034329434-2048x2048.jpg
+02/09/2019  10:39 AM            14,019 Jadwal Piket WC dan Area Sumur Kos 265.docx
+03/21/2019  12:49 AM           651,322 logitech mouse + keyboard.svg
+03/21/2019  12:45 AM         2,036,795 logitech product.png
+03/21/2019  12:49 AM         2,036,788 logitech product2.png
+08/03/2019  10:15 PM        16,551,297 mancing.mp4
+04/17/2019  06:09 PM         3,620,132 munying.svg
+12/31/2018  10:47 PM    <DIR>          My Palettes
+11/27/2019  05:31 AM         4,640,219 ngantree.xd
+04/03/2019  06:21 PM    <DIR>          OnlineMP3
+10/29/2019  11:00 AM           127,807 path953.png
+10/29/2019  10:56 AM           107,173 path953.rar
+10/29/2019  11:01 AM            98,941 path953.zip
+03/26/2019  01:23 AM           126,781 PEFD MNT (RAM) without HE.pdf
+03/23/2019  12:27 AM           128,252 PEFD MNT (RAM).pdf
+02/19/2019  12:22 PM            15,165 Pembukuan penjualan pulsa.docx
+12/02/2019  11:31 AM    <DIR>          praxis-academy
+10/30/2019  06:05 AM            96,835 promoh.png
+10/01/2019  01:41 PM    <DIR>          Python Scripts
+12/28/2018  01:21 PM        25,946,485 skck wilsen.svg
+07/03/2019  09:50 PM    <DIR>          Sony PMB
+12/28/2018  11:10 AM         3,487,822 syarat perpanjangan skck wilsen.docx
+08/16/2019  07:13 PM            38,189 text1050.png
+06/26/2019  01:13 PM        12,998,747 TJ_HartaGonoGini.mp4
+03/07/2019  09:07 PM        26,865,653 VID_27320409_020655_316.mp4
+              36 File(s)    124,606,262 bytes
+              11 Dir(s)  130,126,016,512 bytes free
+
+C:\Users\Personal\Documents>cd praxis-academy
+
+C:\Users\Personal\Documents\praxis-academy>mkdir kemampuan-dasar
+
+C:\Users\Personal\Documents\praxis-academy>cd kemampuan-dasar
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>mkdir kasus latihan
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>dir
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar
+
+12/02/2019  11:38 AM    <DIR>          .
+12/02/2019  11:38 AM    <DIR>          ..
+12/02/2019  11:38 AM    <DIR>          kasus
+12/02/2019  11:38 AM    <DIR>          latihan
+               0 File(s)              0 bytes
+               4 Dir(s)  130,127,663,104 bytes free
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>cd ..
+
+C:\Users\Personal\Documents\praxis-academy>dir
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal\Documents\praxis-academy
+
+12/02/2019  11:38 AM    <DIR>          .
+12/02/2019  11:38 AM    <DIR>          ..
+12/02/2019  11:38 AM    <DIR>          kemampuan-dasar
+               0 File(s)              0 bytes
+               3 Dir(s)  130,127,155,200 bytes free
+
+C:\Users\Personal\Documents\praxis-academy>cd kemampuan-dasar
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>dir
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar
+
+12/02/2019  11:38 AM    <DIR>          .
+12/02/2019  11:38 AM    <DIR>          ..
+12/02/2019  11:38 AM    <DIR>          kasus
+12/02/2019  11:38 AM    <DIR>          latihan
+               0 File(s)              0 bytes
+               4 Dir(s)  130,127,024,128 bytes free
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>mkdir kemampuan-dasar-1 kemampuan-dasar-2
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>dir
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar
+
+12/02/2019  11:41 AM    <DIR>          .
+12/02/2019  11:41 AM    <DIR>          ..
+12/02/2019  11:38 AM    <DIR>          kasus
+12/02/2019  11:41 AM    <DIR>          kemampuan-dasar-1
+12/02/2019  11:41 AM    <DIR>          kemampuan-dasar-2
+12/02/2019  11:38 AM    <DIR>          latihan
+               0 File(s)              0 bytes
+               6 Dir(s)  130,126,405,632 bytes free
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>mv
+'mv' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>move
+The syntax of the command is incorrect.
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>move kasus kemampuan-dasar-1\
+        1 dir(s) moved.
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>dir
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar
+
+12/02/2019  11:43 AM    <DIR>          .
+12/02/2019  11:43 AM    <DIR>          ..
+12/02/2019  11:43 AM    <DIR>          kemampuan-dasar-1
+12/02/2019  11:41 AM    <DIR>          kemampuan-dasar-2
+12/02/2019  11:38 AM    <DIR>          latihan
+               0 File(s)              0 bytes
+               5 Dir(s)  130,126,282,752 bytes free
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>dir kemampuan-dasar-1
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar\kemampuan-dasar-1
+
+12/02/2019  11:43 AM    <DIR>          .
+12/02/2019  11:43 AM    <DIR>          ..
+12/02/2019  11:38 AM    <DIR>          kasus
+               0 File(s)              0 bytes
+               3 Dir(s)  130,126,581,760 bytes free
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>move latihan kemampuan-dasar-1
+        1 dir(s) moved.
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>dir
+ Volume in drive C is Windows-10
+ Volume Serial Number is 1021-68A4
+
+ Directory of C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar
+
+12/02/2019  11:44 AM    <DIR>          .
+12/02/2019  11:44 AM    <DIR>          ..
+12/02/2019  11:44 AM    <DIR>          kemampuan-dasar-1
+12/02/2019  11:41 AM    <DIR>          kemampuan-dasar-2
+               0 File(s)              0 bytes
+               4 Dir(s)  130,112,098,304 bytes free
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar>cd kemampuan-dasar-1
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar\kemampuan-dasar-1>copycon cmdline.txt
+'copycon' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar\kemampuan-dasar-1>copy con cmdline.txt
+
+tugas kemampuan dasar 1
+
+
+1 file<s> copied
+
+
+makan siang
+makan malam
+makan
+^Z
+        1 file(s) copied.
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar\kemampuan-dasar-1>move cmdline.txt kasus
+        1 file(s) moved.
+
+C:\Users\Personal\Documents\praxis-academy\kemampuan-dasar\kemampuan-dasar-1>
