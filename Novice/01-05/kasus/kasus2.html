@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>KASUS 2</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+let map = new Map();
+function translateIt(input) {
+  let str = input.value;
+  console.log("Artinya "+ input.value + " adalah " + map.get(str));
+}
+function addIt(inputa, inputb) {
+  map.set(inputa.value, inputb.value);
+  console.log (inputa.value + " = " + inputb.value + " ditambahkan")
+}
+function deleteIt(inputc) {
+  map.delete(inputc.value);
+  console.log (inputc.value + " dihapus")
+}
+/* Dengan Array
+let id = ["buku", "kucing"];
+let en = ["book", "cat"];
+function translateIt(input) {
+        let findIndex = en.indexOf(input.value);
+        if (findIndex === -1) {
+          console.log("Artinya "+ input.value + " adalah " + "nggak tau");
+        } else {
+        console.log("Artinya "+ input.value + " adalah " + id[findIndex]); }
+      }
+function addIt(inputa, inputb) {
+  id.push(inputa.value);
+  en.push(inputb.value);
+      }
+*/
+</script>
+
+</body>
+
+<p>TRANSLATOR Inggris-Indonesia
+  <br>Masukan kata</p>
+<input id="translator" placeholder="Bahasa Inggris"><button onclick="translateIt(document.getElementById('translator'));">Terjemahkan</button>
+
+<p>Tambahkan Kata</p>
+<input id="ID" placeholder="Bahasa Indonesia"><input id="EN" placeholder="English"><button onclick="addIt(document.getElementById('ID'), document.getElementById('EN'));">Tambahkan</button>
+
+<p>Hapus kata</p>
+<input id="translator" aria-placeholder="Hapus"><button onclick="deleteIt(document.getElementById('translator'));">Hapus</button>
+</form>
+
+</html>

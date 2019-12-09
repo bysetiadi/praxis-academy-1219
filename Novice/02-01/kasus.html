@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>KASUS 1</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+function Alpha(){}
+Alpha.prototype.isAlpha = function(letter){
+    return /^[a-zA-Z]$/.test(letter);
+};
+function Vowel(){}
+Vowel.prototype = new Alpha();
+Vowel.prototype.isVowel = function(letter){
+    return /^[aeiuoyAEIOUY]$/.test(letter);
+};
+function Consonant(){}
+Consonant.prototype = new Alpha();
+Consonant.prototype.isConsonant = function(letter){
+    return /^[^aeiouyAEIOUY]$/.test(letter);
+}
+</script>
+
+</body>
+
+</html>
