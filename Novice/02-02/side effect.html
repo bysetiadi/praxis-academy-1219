@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let meetup = {name:'JS',isActive:true,members:49};
+const scheduleMeetup = (date, place) => {
+  meetup.date = date;
+  meetup.place = place;
+  if (meetup.members < 50)
+    meetup.isActive = false;
+}
+const publishMeetup = () => {
+  if (meetup.isActive) {
+    meetup.publish = true;
+  }
+}
+scheduleMeetup('today','Bnagalore');
+publishMeetup();
+console.log(meetup);
+    </script>
+</body>
+</html>
